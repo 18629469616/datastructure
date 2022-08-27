@@ -14,7 +14,7 @@ typedef struct Node {
     int val;
     struct Node *lchild, *rchild;
 } Node;
-
+//结构
 typedef struct Tree {
     Node *root;
     int n;
